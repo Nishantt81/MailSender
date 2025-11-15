@@ -27,5 +27,5 @@ It’s perfect for contact forms or inquiry submissions from your website and ca
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/MailSender.git
+https://github.com/Nishantt81/MailSender.git
 cd MailSender
